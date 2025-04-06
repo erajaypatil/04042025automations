@@ -64,6 +64,6 @@ public class Eg9
 //		 System.out.println(i); 
 //	 }
 	 
-	 
+	 System.out.println("hi its Eg9 i am updated this class");
 	 }
 }
